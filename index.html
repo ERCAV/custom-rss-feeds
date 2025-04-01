@@ -12,14 +12,15 @@
       background-color: #1a1a1a; /* Dark gray background */
       color: #f5f5f5; /* Light gray text */
       padding: 10px; /* Optional padding for better spacing */
+      position: relative; /* Ensures the text can scroll outside the div */
     }
     .scrolling-text p {
       display: inline-block;
-      animation: scroll-text 3s linear infinite; /* Speed up the scroll to 3s */
+      animation: scroll-text 10s linear infinite; /* Continuous scrolling */
     }
     @keyframes scroll-text {
-      0% { transform: translateX(100%); }
-      100% { transform: translateX(-100%); }
+      0% { transform: translateX(100%); } /* Start off the screen on the right */
+      100% { transform: translateX(-100%); } /* End off the screen on the left */
     }
   </style>
 </head>
