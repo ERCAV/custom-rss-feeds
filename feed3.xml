@@ -7,7 +7,7 @@
     <item>
       <title>ERC Wythenshawe</title>
       <description><![CDATA[
-        <div style="color: white; background-color: #3492ec; padding: 20px; font-size: 20px;">
+        <div style="color: black; background-color: #3492ec; padding: 20px; font-size: 20px;">
           ERC&nbsp;&nbsp;&nbsp;Wythenshawe
         </div>
       ]]></description>
@@ -16,7 +16,7 @@
     <item>
       <title>ERC Booking Info</title>
       <description><![CDATA[
-        <div style="color: white; background-color: #3492ec; padding: 20px; font-size: 20px;">
+        <div style="color: black; background-color: #3492ec; padding: 20px; font-size: 20px;">
           For booking enquiries, please email <strong>xroombooking@mft.nhs.uk</strong>.<br><br>
           Thank you for visiting the ERC today.<br><br>
           The Ground Floor reception is staffed between 8am and 2pm only.
