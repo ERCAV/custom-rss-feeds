@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ERC Wythenshawe Feed</title>
-    <link>https://github.com/username/custom-rss-feeds/feed1.xml</link>
+    <link>https://github.com/ercav/custom-rss-feeds/feed1.xml</link>
     <description>ERC and Wythenshawe Feed</description>
 
     <item>
       <title>ERC Wythenshawe</title>
-      <link>https://github.com/username/custom-rss-feeds/feed1.xml</link>
+      <link>https://github.com/ercav/custom-rss-feeds/feed1.xml</link>
       
       <!-- Plain text description (for RSS readers that strip HTML) -->
       <description>ERC    Wythenshawe</description>
