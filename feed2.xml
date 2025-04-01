@@ -8,10 +8,8 @@
       <title>Booking Information</title>
       <link>https://github.com/username/custom-rss-feeds/feed2.xml</link>
       <description>
-        <div style="font-size: 20px;">
-          For booking enquiries please email xroombooking@mft.nhs.uk.<br><br>
-          Thank you for visiting the ERC today.<br><br>
-          The Ground Floor reception is staffed between 8am and 2pm only.
+        <div style="font-size: 24px;">
+          For booking enquiries please email xroombooking@mft.nhs.uk.&nbsp;&nbsp;&nbsp;&nbsp;Thank you for visiting the ERC today.&nbsp;&nbsp;&nbsp;&nbsp;The Ground Floor reception is staffed between 8am and 2pm only.
         </div>
       </description>
     </item>
