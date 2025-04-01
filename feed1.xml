@@ -1,17 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ERC Wythenshawe Feed</title>
     <link>https://github.com/username/custom-rss-feeds/feed1.xml</link>
     <description>ERC and Wythenshawe Feed</description>
+
     <item>
       <title>ERC Wythenshawe</title>
       <link>https://github.com/username/custom-rss-feeds/feed1.xml</link>
-      <description>
-        <div style="font-size: 24px;">
+      
+      <!-- Plain text description (for RSS readers that strip HTML) -->
+      <description>ERC    Wythenshawe</description>
+
+      <!-- Full HTML content (for RSS readers that support it) -->
+      <content:encoded><![CDATA[
+        <div style="font-size: 24px; color: white; background-color: #3492ec; padding: 10px;">
           ERC&nbsp;&nbsp;&nbsp;&nbsp;Wythenshawe
         </div>
-      </description>
+      ]]></content:encoded>
+
     </item>
+
   </channel>
 </rss>
