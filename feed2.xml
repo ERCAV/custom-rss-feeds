@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>ERC Booking Information Feed</title>
+    <link>https://github.com/username/custom-rss-feeds/feed2.xml</link>
+    <description>ERC Booking Details Feed</description>
+    <item>
+      <title>Booking Information</title>
+      <link>https://github.com/username/custom-rss-feeds/feed2.xml</link>
+      <description>
+        <div style="font-size: 20px;">
+          For booking enquiries please email xroombooking@mft.nhs.uk.<br><br>
+          Thank you for visiting the ERC today.<br><br>
+          The Ground Floor reception is staffed between 8am and 2pm only.
+        </div>
+      </description>
+    </item>
+  </channel>
+</rss>
