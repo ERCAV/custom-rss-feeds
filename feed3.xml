@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>ERC Wythenshawe Feed</title>
+    <link>https://username.github.io/custom-rss-feeds/</link>
+    <description>ERC Wythenshawe Information</description>
+    <item>
+      <title>ERC Wythenshawe</title>
+      <description><![CDATA[
+        <div style="color: white; background-color: #333; padding: 10px; font-size: 20px;">
+          ERC&nbsp;&nbsp;&nbsp;Wythenshawe
+        </div>
+      ]]></description>
+      <link>https://username.github.io/custom-rss-feeds/feed1.xml</link>
+    </item>
+    <item>
+      <title>ERC Booking Info</title>
+      <description><![CDATA[
+        <div style="color: white; background-color: #333; padding: 10px; font-size: 18px;">
+          For booking enquiries, please email <strong>xroombooking@mft.nhs.uk</strong>.<br><br>
+          Thank you for visiting the ERC today.<br><br>
+          The Ground Floor reception is staffed between 8am and 2pm only.
+        </div>
+      ]]></description>
+      <link>https://username.github.io/custom-rss-feeds/feed2.xml</link>
+    </item>
+  </channel>
+</rss>
