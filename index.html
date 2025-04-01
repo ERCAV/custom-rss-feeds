@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Custom RSS Feeds</title>
+  <style>
+    .scrolling-text {
+      white-space: nowrap;
+      overflow: hidden;
+      box-sizing: border-box;
+      background-color: #1a1a1a; /* Dark gray background */
+      color: #f5f5f5; /* Light gray text */
+      padding: 10px; /* Optional padding for better spacing */
+    }
+    .scrolling-text p {
+      display: inline-block;
+      animation: scroll-text 3s linear infinite; /* Speed up the scroll to 3s */
+    }
+    @keyframes scroll-text {
+      0% { transform: translateX(100%); }
+      100% { transform: translateX(-100%); }
+    }
+  </style>
+</head>
+<body>
+  <h1>ERC Wythenshawe Feed</h1>
+  <div class="scrolling-text">
+    <p>ERC&nbsp;&nbsp;&nbsp;Wythenshawe</p>
+  </div>
+
+  <h1>ERC Booking Information Feed</h1>
+  <div class="scrolling-text">
+    <p>For booking enquiries please email xroombooking@mft.nhs.uk.<br><br>
+       Thank you for visiting the ERC today.<br><br>
+       The Ground Floor reception is staffed between 8am and 2pm only.</p>
+  </div>
+
+  <h2>RSS Feed 1</h2>
+  <div>
+    <a href="https://username.github.io/custom-rss-feeds/feed1.xml" target="_blank">View Feed 1</a>
+  </div>
+
+  <h2>RSS Feed 2</h2>
+  <div>
+    <a href="https://username.github.io/custom-rss-feeds/feed2.xml" target="_blank">View Feed 2</a>
+  </div>
+</body>
+</html>
